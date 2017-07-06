@@ -1,0 +1,40 @@
+{
+  "name": "eslint-config-digicade",
+  "version": "1.0.1",
+  "description": "ESLint shareable config for the Digicade style",
+  "repository": "Digicade/eslint-config-digicade",
+  "author": "Digicade",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "Digicade",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "jscs",
+    "jshint",
+    "jslint",
+    "eslint",
+    "validate",
+    "code style",
+    "strict",
+    "check",
+    "checker",
+    "verify",
+    "enforce",
+    "hint"
+  ],
+  "devDependencies": {
+    "eslint": "^3.8.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=3.8.1"
+  }
+}
