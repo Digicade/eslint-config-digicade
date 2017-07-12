@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-digicade",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint shareable config for the Digicade style",
   "repository": "Digicade/eslint-config-digicade",
   "author": "Digicade",
