@@ -174,7 +174,7 @@ module.exports = {
     'key-spacing': 2,
     'keyword-spacing': 2,
     // 'line-comment-position': 0,
-    'linebreak-style': 2,
+    // 'linebreak-style': 0,
     // 'lines-around-comment': 0,
     // 'lines-around-directive': 0,
     // 'max-depth': 0,
