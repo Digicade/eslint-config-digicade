@@ -20,3 +20,7 @@ Once the `eslint-config-digicade` package is installed, you can use it by specif
   }
 }
 ```
+
+## License
+
+Apache-2 © Digicade
